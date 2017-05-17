@@ -1,3 +1,8 @@
-com\awseb\controller\FtoC.class
+com\awseb\model\Result.class
+com\awseb\logic\Convertion.class
 com\awseb\confguration\AppConfig.class
+com\awseb\util\Util.class
+com\awseb\controller\FtoC.class
+com\awseb\confguration\MongoConfiguration.class
+com\awseb\repository\TempRepository.class
 com\awseb\confguration\AppInitializer.class
